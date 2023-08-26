@@ -11,9 +11,6 @@ const linkStyle = {
     transition: 'border-color 0.3s',
 };
 
-const activeLinkStyle = {
-    borderColor: 'blue',
-};
 export const Navbar = () => {
     return (
         <nav style={{
