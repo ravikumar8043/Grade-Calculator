@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grade-Calculator/static/css/main.5e19282a.css",
+    "main.js": "/Grade-Calculator/static/js/main.bba9bbfe.js",
+    "static/js/787.60235f71.chunk.js": "/Grade-Calculator/static/js/787.60235f71.chunk.js",
+    "index.html": "/Grade-Calculator/index.html",
+    "main.5e19282a.css.map": "/Grade-Calculator/static/css/main.5e19282a.css.map",
+    "main.bba9bbfe.js.map": "/Grade-Calculator/static/js/main.bba9bbfe.js.map",
+    "787.60235f71.chunk.js.map": "/Grade-Calculator/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e19282a.css",
+    "static/js/main.bba9bbfe.js"
+  ]
+}
